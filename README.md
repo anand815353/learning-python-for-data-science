@@ -1,21 +1,21 @@
 # learning-python-for-data-science
 
-Data manipulation
+# Data manipulation
     numpy
     panda
     scipy
-    
-ML libraries
-    sciketlearn
-    pytorch
-    tensorflow
-    keras
 
-Visulaization
+# Visulaization
     matplotlib
     seaborn
     plotly
     
-Data Mining
+# ML libraries
+    sciketlearn
+    pytorch
+    tensorflow
+    keras
+    
+# Data Mining
     scrapy
     beautiful soup
