@@ -19,3 +19,5 @@
 # Data Mining
     scrapy
     beautiful soup
+
+***part0 is continued in part1 and part1 in part2 and so on...
