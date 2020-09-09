@@ -1,23 +1,23 @@
 # learning-python-for-data-science
+### Packages
+* [Numpy](#1-Numpy)
+* [Matplotlib](#2-Matplotlib)
+* [Pandas](#3-Pandas)
+* [Scrapy](#4-Scrapy)
+* [Beautiful soup](#5-Beautiful-soup)
+* [Seaborn](#6-Seaborn)
+* [Poltly](#7-Poltly)
+* [Scipi](#8-Scipi)
 
-# Data manipulation
-    numpy
-    panda
-    scipy
 
-# Visulaization
-    matplotlib
-    seaborn
-    plotly
-    
-# ML libraries
-    sciketlearn
-    pytorch
-    tensorflow
-    keras
-    
-# Data Mining
-    scrapy
-    beautiful soup
+### 1 Numpy
+### 2 Matplotlib   
+### 3 Pandas
+### 4 scrapy
+### 5 beautiful soup
+### 6 Seaborn
+### 7 poltly
+### 8 scipi
 
-**part0 is continued in part1 and part1 in part2 and so on...  guess i am not good with countings 😋😅
+## Project status: Ongoing
+[BACK TO TOP](#Packages)
