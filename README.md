@@ -166,22 +166,21 @@
 
 <details><summary>part10- Matplotlib_visualization-4(Basic charts-Box plot, Area plot, error bar, contour plot )</H4></summary>
       <p>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  indexing and slicing Arrays  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  replace an element  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  flatteninig the array  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  ravel()  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  sorting  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  resize  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  append  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  insert  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  put  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  delete  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Split  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  concatenate  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  vstack  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  hstack  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  remove redundent dimensions  <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Broadcasting  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  BOX PLOT  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Box plot notch  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Change color  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Area Plot  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  multiple area plot in one  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Shaded Region between two lines  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  stack plot   <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Error Bar  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Capsize and Capthick  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  limits Parameter  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  error bars with bar charts  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  scatter plot with error bar  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  contour plot  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Meshgrid  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  adjusting levels  <br />
       </p>
 </details> 
 
