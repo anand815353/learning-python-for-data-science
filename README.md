@@ -186,6 +186,118 @@
 
 
 ### 3 Pandas
+
+<details><summary>part11- pandas(series)</H4></summary>
+      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Pandas Data Structures  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  declaring Series  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  selecting elements  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  assigning new values  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  defining series  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Filtering Values  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Simple Mathematical Operations on series  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Counting Duplicates  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  sorting  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  NaN  <br />
+      </p>
+</details>   
+
+<details><summary>part12- pandas(data frames)</H4></summary>
+      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  DataFrame from Dictionary  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  DataFrame from single Dictionary of unequal length  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  DataFrame from lists  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Dataframe from multiple Dictionary  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Dataframe from nested dictionaries  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  DataFrame from Series  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Inserting missing values from another series  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Saving DataFrames  <br />
+      </p>
+</details>   
+
+<details><summary>part13- pandas(Indexing)</H4></summary>
+      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Importing datasets  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  dataframe index  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Identification  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Filtering  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Replacing index  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Alignment  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Selection  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Reindexing  <br />
+      </p>
+</details> 
+
+<details><summary>part14- Pandas (Data Wrangling-part 1)</H4></summary>
+      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  getting basic info about dataset  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  unique values  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  missing data  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Dropping unwanted rows and columns  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Slicing DataFrames based on certain conditions/Filters  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  loc  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  iloc  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  at  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  update  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  apply  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  map  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  applymap  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  replace  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Changing Data Types  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Saving csv file with out index  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Making a list from dataframes  <br />
+      </p>
+</details> 
+
+<details><summary>part15- Pandas (Data Wrangling-part 2)</H4></summary>
+      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  sorting  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Iterating over rows and columns  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  iterrows()  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  itertuples()  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  iteritems()  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  iteration using apply  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  iteration using zip  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  iteration using pandas builtin function  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  iteration using numpy builtin function  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  time-comparision of iteration methods of dataframes  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  plot time-comparison using pandas  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  bar graph in pandas  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  horizontal bar graph in pandas  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  histogram in pandas  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  box plot in pandas  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  area graph in pandas  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  pie chart in pandas  <br />
+      </p>
+</details> 
+
+
+<details><summary>part16- Pandas (Data Wrangling part 3- Advanced Indexing methods and grouping )</H4></summary>
+      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Fancy Indexing  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Boolean Indexing  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Hierarchical indexing  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  acessing DataFrame using multi Index  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Grouping  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  grouping and aggregation  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Grouping multiple columns  <br />
+      </p>
+</details> 
+
+<details><summary>part17- Pandas (Tables)</H4></summary>
+      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    <br />
+      </p>
+</details> 
+
 ### 4 scrapy
 ### 5 beautiful soup
 ### 6 Seaborn
