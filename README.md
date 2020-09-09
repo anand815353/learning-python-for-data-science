@@ -75,7 +75,36 @@
       </p>
 </details> 
 
+<details><summary>part 4- matrix operations</H4></summary>
+      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  transpose  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  max element in an array  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  min element in an array  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  sum of all elements  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  cumulative sum  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  sum and diffrence of more than two matrix  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  trignometric angles  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  sin()  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  cos()  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  tan()  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Intro to matplotlib  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  argsort  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  log  <br />
+      </p>
+</details> 
 
+
+<details><summary>part 5- linear algebra essentials</H4></summary>
+      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  transpose  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  inverse of matrix  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  determinant of matrix  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  rank of matrix  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  diagonal of matrix  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  eigen value and eigen vectors  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  solve linear equations  <br />
+      </p>
+</details> 
 
 
 ### 2 Matplotlib   
