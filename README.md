@@ -3,11 +3,11 @@
 * [Numpy](#1-Numpy)
 * [Matplotlib](#2-Matplotlib)
 * [Pandas](#3-Pandas)
-* [scrapy](4-scrapy)
-* [beautiful soup](5-beautiful-soup)
-* [Seaborn](6-Seaborn)
-* [poltly](7-poltly)
-* [scipi](8-scipi)
+* [Scrapy](#4-Scrapy)
+* [Beautiful soup](#5-Beautiful-soup)
+* [Seaborn](#6-Seaborn)
+* [Poltly](#7-Poltly)
+* [Scipi](#8-Scipi)
 
 
 ### 1 Numpy
