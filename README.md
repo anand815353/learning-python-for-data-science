@@ -298,6 +298,36 @@
       </p>
 </details> 
 
+<details><summary>part18-jovian data anlaysis assignment 1</H4></summary>
+      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Variables and Data Types  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Working with Lists  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Conditions and loops  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Flying to the Bahamas  <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Twitter Sentiment Analysis  <br />
+      </p>
+</details> 
+
+<details><summary>part18-jovian data anlaysis assignment 2</H4></summary>
+      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   Task: To explain 5 numpy function of your choice <br />
+      </p>
+</details>
+
+<details><summary>part18-jovian data anlaysis assignment 3</H4></summary>
+      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Get countries dataset online from web link<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Analyze countries data set <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Apply mathematical operation on two features and create new feature(product of population & per capita GDP = GDP) <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Get Covid-19 stats for various countries online from web link<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Look for missing data<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Merge countries dataset and covid stats dataset<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Create new features after applying mathematical operations<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Find common rows appearing in two dataframes having a common Feature(pandas merge function) <br />
+      </p>
+</details> 
+
+
 ### 4 scrapy
 ### 5 beautiful soup
 ### 6 Seaborn
