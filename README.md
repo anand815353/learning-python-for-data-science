@@ -327,12 +327,31 @@
       </p>
 </details> 
 
+### 4 Data Ananlysis projetcs
+<details><summary>part19.1-jovian data analysis PROJECT ON INDIAN POLITICAL DONATIONS</H4></summary>
+      <p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Importing Dataset<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    data preparation & cleaning <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Handling Missing Data <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    using Indian Cities Data to convert Addresses To States<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Exploratory Data Analysis<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    top 5 contributors contributing highest amount for each party<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Common Contributors donating to all party<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    top 5 contributors Donating highest to any political party <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Which states are most relevent in terms of political donations <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Which states are most relevent in terms of political donations(Amount/Revenue) for specific parties <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Which states are most relevent in terms of Number of donators for specific parties <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    year wise distribution of Donations <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Does Donation recieved by political parties near election years suggest winning party <br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;    Summary of Conclusions/ References <br />      
+      </p>
+</details> 
 
-### 4 scrapy
-### 5 beautiful soup
-### 6 Seaborn
-### 7 poltly
-### 8 scipi
+### 5 Seaborn
+### 6 scrapy
+### 7 beautiful soup
+### 8 poltly
+### 9 scipi
 
 #### Project status: Ongoing
 [BACK TO TOP](#Packages)
